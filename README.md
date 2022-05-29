@@ -1,8 +1,7 @@
 - 👋 Oi, eu sou Diovanni Reis
-- 👀 I’m interested em  programação, banco de dados, análise e desenvolvimento de sistemas.
-- 🌱 I’m currently learning administração de banco de dados e Bootcamp Fullstack na Dio.
-- 💞️ I’m looking to collaborate  on aprendizado e conhecimento 
-- 📫 How to reach me @diovreis
+- 👀 Estudo Análise e Desenvolvimento de Sistemas,DBA e Bootcamp Fullstack na DIO.
+- 💞️ Gostaria de colaborar com aprendizado e conhecimento
+- 📫 @diovreis
 
 <!---
 Diovreis/Diovreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
