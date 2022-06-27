@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Diovanni Reis
-- 👀 Estudo Análise e Desenvolvimento de Sistemas,DBA e Bootcamp Fullstack na DIO.
+- 👀 Estudo Análise e Desenvolvimento de Sistemas e Administrador de Banco de dados
 - 💞️ Gostaria de colaborar com aprendizado e conhecimento
 - 📫 @diovreis
 
