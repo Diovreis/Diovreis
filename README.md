@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Diovanni Reis
-- 👀 Estudo Análise e Desenvolvimento de Sistemas e Administrador de Banco de dados
+- 👀 Formado em  Análise e Desenvolvimento de Sistemas
 - 💞️ Gostaria de colaborar com aprendizado e conhecimento
 - 📫 @diovreis
 
